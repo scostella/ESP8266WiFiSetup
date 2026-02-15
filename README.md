@@ -85,7 +85,8 @@ These projects may be used together to form a complete CMRI‑controlled lightin
 
 ```text
 /
-├── Arduino Tortoise Controller with Feedback - 8 Port.kicad_pcb        # KiCad PCB Layout
+├── ESP8266WiFiSetup.ino    # KiCad PCB Layout
+├── ESP8266WiFiSetup.ino    # KiCad PCB Layout
 ├── Arduino Tortoise Controller with Feedback - 8 Port.kicad_prl        # KiCad Project Settings
 ├── Arduino Tortoise Controller with Feedback - 8 Port.kicad_pro        # KiCad Project
 ├── Arduino Tortoise Controller with Feedback - 8 Port.kicad_sch        # KiCad Schematics
