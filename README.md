@@ -85,12 +85,6 @@ These projects may be used together to form a complete CMRI‑controlled lightin
 
 ```text
 /
-├── ESP8266WiFiSetup.ino    # KiCad PCB Layout
-├── ESP8266WiFiSetup.ino    # KiCad PCB Layout
-├── Arduino Tortoise Controller with Feedback - 8 Port.kicad_prl        # KiCad Project Settings
-├── Arduino Tortoise Controller with Feedback - 8 Port.kicad_pro        # KiCad Project
-├── Arduino Tortoise Controller with Feedback - 8 Port.kicad_sch        # KiCad Schematics
-├── PowerLED.kicad_sch                                                  # KiCad Power and LED module
-├── Tortoise-1.kicad_sch                                                # KiCad Tortoise control module
-├── Arduino Tortoise Controller with Feedback - 8 Port.jpg              # Board Rendering
-└── README.md                                                           # This file
+├── ESP8266WiFiSetup.ino        # Sketch for ESP8266-ESP01
+├── arduino_secrets.h.example   # Sample file for configuring WiFi SSID and password
+└── README.md                   # This file
